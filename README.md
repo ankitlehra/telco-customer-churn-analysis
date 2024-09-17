@@ -14,7 +14,7 @@ This project aims to analyze telecom customer churn behavior by leveraging Pytho
 - **Matplotlib & Seaborn**: Data visualization tools.
   
 ## Data
-The dataset used for this project is `telco_customers.csv`, containing information about customer demographics, service usage, and churn status.
+The dataset used for this project is `telco_customers.csv`, containing information about customer demographics, service usage, and churn status. The dataset can be accessed at [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 ## Visualizations
 The following visualizations were created:
@@ -32,4 +32,3 @@ The following visualizations were created:
 ## Future Improvements
 - Further analysis using machine learning models to predict customer churn.
 - Enhancement of visualizations and interactive dashboards.
-
